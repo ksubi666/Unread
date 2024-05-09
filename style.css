@@ -262,6 +262,9 @@ nav span {
   align-items: center;
   font-size: 14px;
 }
+.scroll-card-head p {
+  font-weight: 100;
+}
 .scroll-card-head,
 .scroll-card-content {
   z-index: 2;
@@ -625,6 +628,7 @@ footer p {
   height: 53.25px;
   width: 168.3px;
   margin-right: 10px;
+  margin-bottom: 10px;
 }
 .app-store-button-container {
   margin-top: 50px;
