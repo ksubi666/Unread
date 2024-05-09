@@ -628,10 +628,10 @@ footer p {
   height: 53.25px;
   width: 168.3px;
   margin-right: 10px;
-  margin-bottom: 10px;
 }
 .app-store-button-container {
   margin-top: 50px;
+  gap: 10px;
 }
 .bulanguud p {
   margin-top: 9px;
